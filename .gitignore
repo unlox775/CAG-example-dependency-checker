@@ -1,0 +1,12 @@
+# Split-out staging (do not ship)
+split-out-TODO.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Run artifacts (from original patch)
+dependency-checker-last-run-*.txt
+results/

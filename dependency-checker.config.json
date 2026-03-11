@@ -1,0 +1,11 @@
+{
+  "target_repo": "examples/minimal-repo",
+  "docs_dir": "dependency-docs",
+  "manifests": {
+    "ruby": "Gemfile",
+    "javascript": "package.json",
+    "python": "pyproject.toml"
+  },
+  "include_dev_dependencies": true,
+  "rerun_command": "make check-dependencies"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "minimal-repo",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.2",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
