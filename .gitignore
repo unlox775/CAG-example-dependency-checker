@@ -10,3 +10,6 @@ venv/
 # Run artifacts (from original patch)
 dependency-checker-last-run-*.txt
 results/
+
+# Codex agent output
+codex-final.txt
